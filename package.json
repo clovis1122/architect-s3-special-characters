@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "author": "Clovis Ramirez",
+  "scripts": {
+    "start": "arc sandbox",
+    "deploy": "arc deploy"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.16.3"
+  },
+  "dependencies": {
+    "@architect/functions": "^7.0.0"
+  }
+}
